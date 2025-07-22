@@ -21,12 +21,12 @@ It is an instance of the class which means it uses the blueprint to exist and wo
 
 ### 2.ABSTRACTION 
 #### Def : Abstraction means hiding all unneccessary details and showing only important/what's needed to the user.
-#### E.g : Ordering food online ; Expln : We don't know how the order is processed , which kitchen it's going to ; the essential/important part we saw is selection of food items and the delivery time
+#### E.g : Ordering food online ; Expln : We don't know how the order is processed , which kitchen it's going to ; the essential/important part we saw is selection of food items and the delivery time.
 
 ### 3.INHERITANCE
 #### Def : Inheritance allows one class to inherit the properties and behaviour of another class . It promotes code reusabilty.
 #### E.g : Parent and child ; Expln : Child inherits few traits from their parent.
 
 ### 4.POLYMORPHISM 
-#### Def : Polymorphism means to exist in different forms . Methods with same name behave differently based on the object calling them.
-#### E.g : A Person , Expl : A person can be an employee at an office , also can be a brother/sister to his/her siblings.
+#### Def : Polymorphism means to exist in different forms . Methods with same name behave differently based on the object calling them.It is of 2 types : 1.Runtime polymorphism , 2. Compile time polymorphism.
+#### E.g : A Person , Expln : A person can be an employee at an office , also can be a brother/sister to his/her siblings.
